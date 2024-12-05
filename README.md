@@ -9,7 +9,7 @@
 </a>
 
 * * *
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyeong98&show_icons=true&theme=dracula)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyeong98&show_icons=true&include_all_commits=true&theme=dracula)
 * * *
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sungyeong98&layout=compact&theme=dracula)
 
