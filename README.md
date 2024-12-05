@@ -1,4 +1,4 @@
-![Leetcode Stats](https://leetcard.jacoblin.cool/kr_AnSK)
+![Leetcode Stats](https://leetcard.jacoblin.cool/kr_AnSK?theme=dark)
 * * *
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sungyeong98&show_icons=true&hide=stars,contribs&include_all_commits=true&count_private=true&theme=dracula)
 * * *
